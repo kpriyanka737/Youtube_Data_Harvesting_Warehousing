@@ -14,7 +14,7 @@ DOMAIN : DATA SCIENCE**
 
 **Configuration**
 
-1.Open the mainfile.py file in the project directory.
+1.Open the sourcecode.py file in the project directory.
 
 2.Set the desired configuration options:
 
