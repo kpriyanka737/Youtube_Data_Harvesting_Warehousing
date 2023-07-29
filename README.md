@@ -9,7 +9,7 @@ DOMAIN : DATA SCIENCE**
 
 **DEMO VIDEO URL**: https://www.youtube.com/watch?v=BKJXhXDjDuA
 
-**LINKED IN URL** : 
+**LINKED IN URL** : https://www.linkedin.com/feed/update/urn:li:activity:7091120405314211840/
 
 
 **Configuration**
