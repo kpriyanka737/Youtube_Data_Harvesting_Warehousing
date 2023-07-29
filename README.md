@@ -7,8 +7,6 @@ Python scripting, Data Collection, MongoDB, Streamlit, API integration, Data Man
 BATCH: DW58DW59
 DOMAIN : DATA SCIENCE**
 
-**DEMO VIDEO URL**: https://www.youtube.com/watch?v=BKJXhXDjDuA
-
 **LINKED IN URL** : https://www.linkedin.com/feed/update/urn:li:activity:7091120405314211840/
 
 
