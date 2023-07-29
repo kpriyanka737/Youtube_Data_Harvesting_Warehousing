@@ -28,7 +28,7 @@ DOMAIN : DATA SCIENCE**
 
 **Usage**
 
-1.Launch the Streamlit app: streamlit run mainfile.py
+1.Launch the Streamlit app: streamlit run source_code.py
 
 2.Run the mainfile.py script, make sure you have main and sql files in the same folder.
 
